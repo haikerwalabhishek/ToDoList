@@ -1,6 +1,6 @@
 # Website Link
 [link](https://haikerwalabhishek.github.io/ToDoList/)
-(https://raw.githubusercontent.com/haikerwalabhishek/ToDoList/refs/heads/main/preview.png)
+<img src="https://raw.githubusercontent.com/haikerwalabhishek/ToDoList/refs/heads/main/preview.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 # Deploy Vite app to GitHub Pages using GitHub Actions
