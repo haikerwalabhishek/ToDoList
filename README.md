@@ -9,7 +9,7 @@ This Todo app is a simple frontend-only web application built using Vite and Rea
 - Delete Task: Removes a task from the list with a click of the "Delete" button.
 - Checkbox: Tracks the completion status of each task.
 
-## Note:after forking
+## Note:
 - After forking or pulling the repository, run npm install.
 
 # Website Link
