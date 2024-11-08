@@ -2,7 +2,7 @@
 [link](https://haikerwalabhishek.github.io/ToDoList/)
 
 
-<img src="https://raw.githubusercontent.com/haikerwalabhishek/ToDoList/refs/heads/main/preview.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/haikerwalabhishek/ToDoList/refs/heads/main/preview.png">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 # Deploy Vite app to GitHub Pages using GitHub Actions
