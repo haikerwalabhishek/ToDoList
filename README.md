@@ -1,3 +1,14 @@
+# ToDo App
+
+## Overview
+This Todo app is a simple frontend-only web application built using Vite and React. It demonstrates basic functionality without using a database or local storage to save tasks.
+
+## Features
+- Add Task: Adds a task to the list when you click the "Add" button. Hovering over a task displays its full content.
+- Edit Task: Allows you to modify a task by clicking the "Edit" button and then saving your changes.
+- Delete Task: Removes a task from the list with a click of the "Delete" button.
+- Checkbox: Tracks the completion status of each task.
+
 # Website Link
 [link](https://haikerwalabhishek.github.io/ToDoList/)
 
